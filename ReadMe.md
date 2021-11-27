@@ -1,4 +1,4 @@
-###Created by Samvram Sahu & Prakhar Thakur 
+### Created by Samvram Sahu & Prakhar Thakur 
 
 [IMPORTANT]:
 TO train the model run : "rasa train"
@@ -15,6 +15,3 @@ actions/action.py has been modified to include the change of querying from the c
 data/nlu.yml contains all intents, synonyms etc relevant to our area of study
 
 data/story.yml has been filled with rigorous number of examples from interactive shells which make the bot good
-
-config.yml & domain.yml - have been modified as instructed in video
-
