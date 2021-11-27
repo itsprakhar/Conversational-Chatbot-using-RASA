@@ -1,4 +1,4 @@
-Submitted by Samvram Sahu & Prakhar 
+###Created by Samvram Sahu & Prakhar Thakur 
 
 [IMPORTANT]:
 TO train the model run : "rasa train"
